@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+background-image: url("../img/wallpaper.jpg");
+background-color: #1a6d7f;
+background-size: 100%;
+background-position: center;
+width: 100%;
+height: 100%;
+}
+
+#logo{
+	width: 90%;
+	padding-top: 10px;
+	padding-bottom: 10px;}
+
+#redes{
+ padding-left: 100px;
+ padding-top: 70px;
+}
+
+.music-body{
+	background-image: url("../img/bodyback.jpg");
+background-size: 100% 100%;
+	color: #b7fffc;
+	margin: 0;
+}
+
+.music-body h4{
+	color: #f8ffff;
+}
+
+.music-body label{
+	color: #a2a2a2
+}
+
+.nav-tabs li a{
+	color: #10edfe;
+}
+
+.avicii1{
+	padding-top: 20px;
+}
+
+.container{
+	margin: auto;
+}
+
+.buscador{
+	width: auto;
+	padding: 15px;
+	min-height: 60px;
+	background-image: url("../img/buscadorback.jpg");
+background-size: 100%;
+background-position: center center;
+	color: #b7fffc;
+}
+
+.fondo a{
+background: #00555b !important;
+color: white !important;
+margin-top: 5px;
+}
+
+@media screen and (max-width: 480px){
+	header{
+		align-items: center;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		max-height: 30%;
+	}
+
+ #logo{
+	 align-items: center;
+	 padding-top: 20px;
+	 padding-left: 10px;
+	 width: 100%;
+	 margin: auto;
+ }
+
+#redes{
+	float: right;
+}
+
+.buscador{
+	width: 100%;
+}
+
+input-group-btn, form-control{
+
+}
+
+}

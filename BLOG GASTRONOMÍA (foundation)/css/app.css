@@ -1,0 +1,52 @@
+.logo{
+  width: 70%;
+  margin: 10px;
+  padding-top: 5px;
+}
+
+.slogan{
+  width: 85%;
+}
+
+body{
+background-image: url("../img/wallpaper.jpg");
+background-repeat: repeat-y !important;
+background-repeat: round;
+margin-bottom: 50px;
+}
+
+.fondito{
+  background-color:rgba(255, 255, 255, 0.6);
+}
+
+header{
+  background-image: url("../img/header.jpg");
+  background-color: #1a6d7f;
+  background-size: 100%;
+  background-position: center;
+  height: 20%;
+}
+
+button{
+  background: #f1d89c;
+  border: 1 solid #5e5e5e;
+}
+
+.buscador{
+  padding-top: 10px;
+  margin: 0 auto;
+}
+
+.fa-search{
+  padding-top: 3px;
+  width: 50px;
+  position: relative;
+}
+
+.platos{
+  margin-top: 10px;
+}
+
+.platos2{
+  margin-top: 20px;
+}

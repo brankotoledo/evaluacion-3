@@ -1,0 +1,55 @@
+.menubotones div{
+  border-radius: 5px !important;
+  margin-top: 10px;
+}
+
+.logo{
+  width: 100%;
+  padding-left: 2%;
+  padding-top: 5%;
+}
+
+header{
+  background-image: url("../IMG/header.jpg");
+  background-position: center;
+  background-size: 100%;
+}
+
+header{
+  min-height: 30%;
+}
+
+body{
+  background-image: url("../IMG/body.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.cardfoto{
+    width: 100%;
+    float: left;
+}
+
+.titper h4{
+  text-align: center !important;
+}
+
+.cardiqq{
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.branko{
+  margin-top: 5%;
+  width: 50%;
+}
+
+.redesociales{
+  margin: auto;
+  width: 50px !important;
+}
+
+.galeria{
+  width: 100%;
+}
